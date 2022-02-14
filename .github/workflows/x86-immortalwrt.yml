@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/xiaowansm5/immortalwrt
+  REPO_URL: https://github.com/52014app/immortalwrt
   REPO_BRANCH: openwrt-18.06
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: x86-immortalwrt.config
